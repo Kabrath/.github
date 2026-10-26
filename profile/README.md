@@ -14,9 +14,27 @@
 
 We build live video software for **TV broadcasters**, **FAST channels** and **content creators**.
 
-Every Fast Monkey product runs on **Kabrath**, our live video engine. Our products all share the same proven core:
-reliable live ingest, adaptive streaming for every screen and ad markers that turn every break into revenue.
-Each product then adds the screens and workflow its users need.
+Every Fast Monkey product is built on two engines that work together:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/kabrath.svg" height="36" alt="Kabrath"><br>
+      <b>Kabrath</b>, our live video engine<br>
+      The shared core of every product: control of ingest and outputs, ad markers, alerts, monitoring and the
+      control panel.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/mcrbox.svg" height="36" alt="MCR Box"><br>
+      <b><a href="https://mcrbox.com">MCR Box</a></b>, the media engine<br>
+      Broadcast grade processing on every server: it receives the live feeds, encodes every quality and packages
+      the streams. Kabrath drives it, and its license activates each server.
+    </td>
+  </tr>
+</table>
+
+Together they give every product the same proven base: reliable live ingest, adaptive streaming for every screen
+and ad markers that turn every break into revenue. Each product then adds the screens and workflow its users need.
 
 <br>
 
@@ -34,6 +52,7 @@ Each product then adds the screens and workflow its users need.
       <ul>
         <li>SCTE-35 passthrough</li>
         <li>Adaptive HLS for every screen</li>
+        <li>SRT output for partners and platforms</li>
         <li>Main and backup feeds with automatic failover</li>
       </ul>
     </td>
@@ -74,7 +93,7 @@ From your feed to the viewer, with no playout and no reprocessing of your conten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/how-it-works-dark.png">
-  <img alt="Your live feed with SCTE-35 goes into Fast Pass, then to a CDN, ad insertion and viewers." src="assets/how-it-works-light.png" width="100%">
+  <img alt="Your live feed with SCTE-35 goes into Fast Pass, built on Kabrath and MCR Box, then to a CDN, ad insertion and viewers." src="assets/how-it-works-light.png" width="100%">
 </picture>
 
 The SCTE-35 markers in your feed become ads on mobile, web and Smart TV. Choose the insertion model that fits
@@ -119,7 +138,7 @@ stitched into the stream for a seamless, TV like transition on any player.
     <td width="50%" valign="top">
       <img src="assets/icons/licensing.svg" width="32" alt=""><br>
       <b>Simple licensing</b><br>
-      One license per channel, activated in seconds from the control panel.
+      One MCR Box license per server, activated in seconds from the control panel.
     </td>
   </tr>
 </table>
@@ -127,6 +146,6 @@ stitched into the stream for a seamless, TV like transition on any player.
 <br>
 
 <p align="center">
-  <img src="assets/kabrath.svg" height="28" alt="Kabrath"><br>
-  <sub><b>Fast Monkey</b> products are powered by the <b>Kabrath</b> live video engine.</sub>
+  <img src="assets/kabrath.svg" height="28" alt="Kabrath">&nbsp;&nbsp;&nbsp;<img src="assets/mcrbox.svg" height="28" alt="MCR Box"><br>
+  <sub><b>Fast Monkey</b> products are powered by the <b>Kabrath</b> live video engine and the <a href="https://mcrbox.com"><b>MCR Box</b></a> media engine.</sub>
 </p>

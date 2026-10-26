@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MCR Box">
+  <!-- The LogoMark tab from components/ui.tsx: amber tile, bottom-right corner
+       clipped round, dark Orbitron-geometry "M" drawn as a path so the mark
+       does not depend on a webfont. -->
+  <path d="M0 0h64v42a22 22 0 0 1-22 22H0z" fill="#f4a927"/>
+  <path d="M15 45V20l17 16 17-16v25" fill="none" stroke="#0b1120" stroke-width="7.5" stroke-linejoin="miter" stroke-miterlimit="6"/>
+</svg>
