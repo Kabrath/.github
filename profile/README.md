@@ -59,14 +59,16 @@ and ad markers that turn every break into revenue. Each product then adds the sc
     <td width="33%" valign="top">
       <img src="assets/fast-one.png" height="44" alt="Fast One"><br>
       <h3>Fast One</h3>
-      <img src="https://img.shields.io/badge/coming%20soon-8b5cf6?style=flat-square" alt="Coming soon"><br><br>
+      <img src="https://img.shields.io/badge/available-8b5cf6?style=flat-square" alt="Available"><br><br>
       <b>Enterprise playout for 24/7 FAST channels.</b><br>
       Schedule your library and live events into a channel that never stops, with the ad breaks,
       graphics and guide data FAST platforms expect.
       <ul>
-        <li>24/7 playout</li>
-        <li>SCTE-35, logo, slate and alerts</li>
-        <li>EPG and object storage integration</li>
+        <li>Day, week and month programming grid</li>
+        <li>Library plus two live inputs</li>
+        <li>SCTE-35 breaks and proof of play</li>
+        <li>EPG in XMLTV and JSON</li>
+        <li>HLS, SRT, RTMP and YouTube outputs</li>
       </ul>
     </td>
     <td width="33%" valign="top">
